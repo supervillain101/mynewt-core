@@ -17,6 +17,8 @@
  * under the License.
  */
 
+/* Test */
+
 #include <assert.h>
 #include <string.h>
 #include "os/mynewt.h"
